@@ -1,5 +1,5 @@
 # Shabondy
-*WIP...*
+
 
 ## Naive
 ```cmd
@@ -18,3 +18,5 @@ Key : 'KPMG'
 Tip : 1.special characters and blank spaces are ignored.
       2.Please submit all flag with capital letters.
 ```
+
+*WIP...*
