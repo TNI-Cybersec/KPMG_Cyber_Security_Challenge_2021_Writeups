@@ -20,8 +20,8 @@ Tip : 1.special characters and blank spaces are ignored.
 ```
 
 ### OK Google
-["What is ciphertext with key?"](https://www.google.co.th/search?q=ciphertext+with+key)
-> \>> ["Vigenere Cipher"](https://www.dcode.fr/vigenere-cipher)
+> Me : ["What is ciphertext with key?"](https://www.google.co.th/search?q=ciphertext+with+key)
+>> Google : ["Vigenere Cipher"](https://www.dcode.fr/vigenere-cipher)
 
 ### Decrypting...
 ```
