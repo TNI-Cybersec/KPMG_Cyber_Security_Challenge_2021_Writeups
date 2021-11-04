@@ -25,5 +25,6 @@
 - [Shabondy](https://github.com/TNI-Cybersec/KPMG_Cyber_Security_Challenge_2021_Writeups/tree/main/KPMG2021/Reverse%20Engineering/Shabondy)
 - [Don't Click!!!](https://bit.ly/3b3hAhH)
 
-## OSINT
-- [OSINT](KPMG2021/OSINT)
+## Etc.
+- [OSINT](KPMG2021/etc/OSINT.md)
+- [Network Quiz](KPMG2021/etc/Network_Quiz.md)
