@@ -1,7 +1,7 @@
 # Namek
 
 ## Search String
-1. Right click, `Edit with Notepad++`
+1. Right-click, `Edit with Notepad++`, or use [CyberChef](https://gchq.github.io/CyberChef/)
 2. `Ctrl + F` (Find)
     1. Search with RegEx : `KPMG\{(.*?)\}`
     2. or just search : `KPMG`
