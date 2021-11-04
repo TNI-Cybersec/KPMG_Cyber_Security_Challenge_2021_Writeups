@@ -24,4 +24,4 @@
 - **Hub** `5` Ports = `1` CD / `1` BD
 -->
 
-**อ่านเพิ่มเติม** : [วิธีการนับ Collision Domain และ Broadcast Domain](https://www.jodoi.com/book/collision_broadcast_domain.pdf)
+> **อ่านเพิ่มเติม** : [วิธีการนับ Collision Domain และ Broadcast Domain](https://www.jodoi.com/book/collision_broadcast_domain.pdf)
