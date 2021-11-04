@@ -8,7 +8,7 @@
 |CTF Write-up|[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)|
 |----|----|
 
-## Crypto
+## Cryptography
 - [Niburu](KPMG2021/Crypto/Niburu)
 - [Don't Click!!!](https://bit.ly/3b3hAhH)
 
