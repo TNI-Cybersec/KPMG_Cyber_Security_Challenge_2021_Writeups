@@ -9,7 +9,8 @@
 > `17, 7`
 
 ## Quick Note
-**Router** แบ่ง `Broadcast` และ `Collision Domain` ส่วน **Switch** *(ไม่มี VLAN)* แบ่ง `Collision Domain` ตัวอย่างตามตารางด้านล่าง
+**Port** ของ **Router** แบ่ง `Broadcast` และ `Collision Domain` ส่วน **Switch** *(ไม่แบ่ง VLAN)* แบ่ง `Collision Domain`  
+แต่ **Hub** ไม่ว่าจะมีกี่ port ก็มีแค่ 1 CD ตัวอย่างตามตารางด้านล่าง
 
 | Device | Ports | CD | BD |
 |--------|:-----:|:--:|:--:|
