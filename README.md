@@ -15,8 +15,8 @@
 - [Problem 1](KPMG2021/Forensic/problem1)
 - [Problem 2](KPMG2021/Forensic/problem2)
 - [$1L13NC3](KPMG2021/Forensic/$1L13NC3)
-- [Andromeda](https://bit.ly/3b3hAhH)
-- [Memory Dump](https://bit.ly/3b3hAhH)
+- [Andromeda](KPMG2021/Forensic/Andromeda)
+- [Memory Dump](KPMG2021/Forensic/memory.dmp)
 
 ## Mobile
 - [ClickClickClick](KPMG2021/Mobile/ClickClickClick)
@@ -30,4 +30,4 @@
 ## Etc.
 - [OSINT](KPMG2021/etc/OSINT.md)
 - [Network Quiz](KPMG2021/etc/Network_Quiz.md)
-- [Don't Click!!!](https://bit.ly/3b3hAhH)
+- [Don't Click!!!](https://bit.ly/3b3hAhH) :trollface:
