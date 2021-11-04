@@ -14,7 +14,7 @@ KHNM(Sd3Jcq0gR0aEQ)
 Try this tool : [Cryptogram Solver](https://www.boxentriq.com/code-breaking/cryptogram)
 
 ### Guide
-1. Paste the cipher
+1. Paste the whole cipher
 2. Click `Auto Solve`
 3. Inspect...
 
