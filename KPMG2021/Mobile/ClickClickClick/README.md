@@ -1,2 +1,4 @@
 # ClickClickClick
-*WIP*
+Just clicking 10,000 times :trollface:
+
+*ggez*
