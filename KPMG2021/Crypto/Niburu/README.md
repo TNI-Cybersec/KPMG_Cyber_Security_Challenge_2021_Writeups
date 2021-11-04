@@ -13,7 +13,7 @@ KHNM(Sd3Jcq0gR0aEQ)
 ```
 
 ## Decryption
-Try this tool : [Cryptogram Solver](https://www.boxentriq.com/code-breaking/cryptogram)
+Try this tool : [Cypher Indentifier](https://www.boxentriq.com/code-breaking/cipher-identifier) & [Cryptogram Solver](https://www.boxentriq.com/code-breaking/cryptogram)
 
 ### Guide
 1. Paste the whole cipher
