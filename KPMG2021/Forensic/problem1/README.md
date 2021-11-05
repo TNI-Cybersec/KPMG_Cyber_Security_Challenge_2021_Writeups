@@ -6,9 +6,11 @@
 Try this tool : [StegOnline](https://stegonline.georgeom.net/upload)
 
 ### Guide
-`Browse Bit Plane` ➡ `Red 7`
+> `Browse Bit Plane` ➡ `Red 7`
 
 ### Flag
+![Imgur](https://imgur.com/0wmJ4Nk.png)
+
 ```
 KPMG{Y0U_C4N_S3E_M3}
 ```
