@@ -13,4 +13,4 @@ Try this tool : [StegOnline](https://stegonline.georgeom.net/upload)
 KPMG{Y0U_C4N_S3E_M3}
 ```
 
-[***ดูเพิ่มเติม***](https://medium.com/@PlyNatwara/problem-writeups-kpmg-cyber-security-challenge-2021-bfa8a29fd85d)
+> **Alternative method** : [***ดูเพิ่มเติม***](https://medium.com/@PlyNatwara/problem-writeups-kpmg-cyber-security-challenge-2021-bfa8a29fd85d)
