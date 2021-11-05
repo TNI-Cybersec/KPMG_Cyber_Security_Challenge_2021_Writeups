@@ -1,12 +1,10 @@
 # Shabondy
-
-
-## The True Password
+### Shabondy.exe
 ```cmd
-Please input the correct password : KMGPas8M0rP{}$8@b0endW8yKPMR3f3R
+Please input the correct password : 
 ```
 
-## Patched
+## Patching
 
 ### Disassembling
 - Use [**IDA Freeware**](https://hex-rays.com/ida-free/), a disassembler, to disassembly the program
@@ -40,5 +38,12 @@ Tip : 1.special characters and blank spaces are ignored.
 ```
 Flag : KPMG{HELLO_PIRATES}
 ```
+
+## The True Password
+```cmd
+Please input the correct password : KMGPas8M0rP{}$8@b0endW8yKPMR3f3R
+```
+
+> **Tip** : Press `F5` to decompile the assembly
 
 *WIP...*
