@@ -1,7 +1,7 @@
 # Shabondy
 ### Shabondy.exe
 ```cmd
-Please input the correct password : 
+Please input the correct password : ...
 ```
 
 ## Patching
