@@ -52,5 +52,3 @@ Please input the correct password : KMGPas8M0rP{}$8@b0endW8yKPMR3f3R
 ```
 
 > **Tip** : Press `F5` to decompile the assembly
-
-*WIP...*
