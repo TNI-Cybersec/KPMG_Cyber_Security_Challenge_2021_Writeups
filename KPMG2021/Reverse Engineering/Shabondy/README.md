@@ -7,6 +7,23 @@ Please input the correct password : KMGPas8M0rP{}$8@b0endW8yKPMR3f3R
 ```
 
 ## Patched
+
+### Disassembling
+- Use [**IDA Freeware**](https://hex-rays.com/ida-free/), a disassembler, to disassembly the program
+- Inspecting the instructions graph...  
+      ![Imgur](https://imgur.com/fWYHNzD.png)  
+    - a bit closer...  
+      ![Imgur](https://imgur.com/9UPU2Pj.png)
+      ![Imgur](https://imgur.com/0aqkV70.png)
+    - Look at the `jnz` (Jump Not Zero) instruction  
+      ![Imgur](https://imgur.com/k7M3O7J.png)  
+    - Notice that conditional jump instruction link to this address...  
+      ![Imgur](https://imgur.com/GA0jsro.png)
+      
+- `Apply patches to input file...`
+- Run...
+
+### Result
 ```cmd
 Please input the correct password : .
 You are on the right way: UEYM{RTXRY_EUXKIQY}
