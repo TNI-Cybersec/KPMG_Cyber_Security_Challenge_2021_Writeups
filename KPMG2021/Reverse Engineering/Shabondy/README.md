@@ -18,15 +18,19 @@ Please input the correct password :
     - Notice that conditional jump instruction link to this node address (loc_401AC7)...  
       ![Imgur](https://imgur.com/GA0jsro.png)
       
-> **Idea** : Change the conditional jump (`jnz`) into unconditinal jump instruction (`jmp`) with the right address (the right node according to the above picture)
+> **Idea** : Change the conditional jump (`jnz`) into unconditinal jump instruction (`jmp`) with the right address (the right node according to the above picture that will give the correct answer)
 
 - Patch the program
-    - `Apply patches to input file...`
-    - Run...
+    - First, assign address name to the right node
+    - Highlight the target instruction (`jnz loc_401AC7`)
+    - `Edit` -> `Patch Program` -> `Assemble...`
+    - Replace with the new instruction: `jmp <right_address_name>`     
+    - `Edit` -> `Patch Program` -> `Apply patches to input file...`
+    - Run the patched program...
 
 ### Result
 ```cmd
-Please input the correct password : .
+Please input the correct password : .  // Input anything will do
 You are on the right way: UEYM{RTXRY_EUXKIQY}
 Key : 'KPMG'
 Tip : 1.special characters and blank spaces are ignored.
