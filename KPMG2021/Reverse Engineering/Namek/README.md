@@ -3,7 +3,7 @@
 ![main](https://miro.medium.com/max/1400/1*6W4gL43dXMoi244qnlGwLw.png)
 
 ## Search String
-1. Right-click, `Edit with Notepad++`, or use `Notepad` (or any editor of you choice)
+1. Right-click, `Edit with Notepad++`, or use `Notepad` (or any editor of your choice)
 2. `Ctrl + F` (Find)
     1. Search with RegEx : `KPMG\{(.*?)\}`
     2. or just search : `KPMG`
