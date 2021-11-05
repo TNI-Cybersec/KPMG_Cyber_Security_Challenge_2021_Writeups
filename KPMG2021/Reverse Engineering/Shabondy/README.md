@@ -15,10 +15,10 @@ Please input the correct password :
       ![Imgur](https://imgur.com/0aqkV70.png)
     - Look at the `jnz` (Jump Not Zero) instruction  
       ![Imgur](https://imgur.com/k7M3O7J.png)  
-    - Notice that conditional jump instruction link to this address (loc_401AC7)...  
+    - Notice that conditional jump instruction link to this node address (loc_401AC7)...  
       ![Imgur](https://imgur.com/GA0jsro.png)
       
-> **Idea** : Change the conditional jump (`jnz`) into unconditinal jump instruction (`jmp`) with the right address
+> **Idea** : Change the conditional jump (`jnz`) into unconditinal jump instruction (`jmp`) with the right address (the right node according to the above picture)
 
 - Patch the program
     - `Apply patches to input file...`
