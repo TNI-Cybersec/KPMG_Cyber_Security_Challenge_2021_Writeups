@@ -6,7 +6,7 @@
 1. Right-click, `Edit with Notepad++`, or use `Notepad` (or any editor of your choice)
 2. Find (`Ctrl + F`)
     1. Search with RegEx : `KPMG\{(.*?)\}`
-    2. or just search : `KPMG`
+    2. or just type : `KPMG`
 
 ### Flag
 ```
