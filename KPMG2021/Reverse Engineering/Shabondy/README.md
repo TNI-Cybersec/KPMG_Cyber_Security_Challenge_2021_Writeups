@@ -18,7 +18,7 @@ Please input the correct password : ...
     - Notice that conditional jump instruction link to this node address (`loc_401AC7`)...  
       ![Imgur](https://imgur.com/GA0jsro.png)
       
-> **Idea** : Change the conditional jump (`jnz`) into unconditinal jump instruction (`jmp`) with the right address (the right node according to the above picture that will give the correct answer)
+> **Idea** : Change the conditional jump (`jnz`) into unconditinal jump instruction (`jmp`) with the right address—the right node according to the above picture that will give the correct answer
 
 - Patch the program
     - First, assign address name to the right node
