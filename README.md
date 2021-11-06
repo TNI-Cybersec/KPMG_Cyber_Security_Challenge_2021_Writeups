@@ -30,4 +30,4 @@
 ## Etc.
 - [OSINT](KPMG2021/etc/OSINT.md)
 - [Network Quiz](KPMG2021/etc/Network_Quiz.md)
-- [Don't Click!!!](https://bit.ly/3b3hAhH) :trollface:
+- [Don't Click!!!](https://bit.ly/301gYH7) :trollface:
