@@ -1,7 +1,4 @@
-<br>
-<img align="right" src="https://imgur.com/SN6ZqUt.png" width="450"></img>
-<p align="center">
-</br>	
+<img align="right" src="https://imgur.com/SN6ZqUt.png" width="450" />
 
 # KPMG Cyber Security Challenge 2021 Writeups
 ## By [TNI Cybersec](https://tni-cybersec.github.io)
